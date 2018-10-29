@@ -1,0 +1,25 @@
+body,html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map {
+    height: 100%;
+}
+
+#controls {
+    position: absolute;
+    top: 2em;
+    left: 10%;
+    width: 90%;
+    z-index: 2;
+}
+
+#rangeSlider {
+    width: 60%;
+}
+
+#dateString {
+    color: white;
+    font-size: 30px;
+}
